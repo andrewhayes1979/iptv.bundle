@@ -1,2 +1,2 @@
 # iptv.bundle
-Plex plug-in to serve up m3u/xmltv IPTV streams
+Plex plug-in channel to serve up m3u/xmltv IPTV streams
